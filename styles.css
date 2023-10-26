@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+}
+
+button#connectButton {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+/* #presetButtons {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+}
+
+#presetButtons button {
+    display: block;
+    margin: 10px 0;
+} */
+
+#dataContainer {
+    text-align: center;
+}
+
+#dataValue {
+    font-weight: bold;
+}
